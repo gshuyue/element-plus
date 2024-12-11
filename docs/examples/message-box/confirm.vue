@@ -12,7 +12,7 @@ const open = () => {
     {
       confirmButtonText: 'OK',
       cancelButtonText: 'Cancel',
-      type: 'warning',
+      type: 'info',
     }
   )
     .then(() => {
